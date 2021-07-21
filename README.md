@@ -1,0 +1,4 @@
+### CHash ###
+__CHash__ is a fairly standard implementation of a [hash table](https://en.wikipedia.org/wiki/Hash_table) [data structure](https://en.wikipedia.org/wiki/Data_structure) for single-threaded applications written in [ANSI](https://en.wikipedia.org/wiki/ANSI_C) [C17](https://en.wikipedia.org/wiki/C17_(C_standard_revision))-compliant [C](https://en.wikipedia.org/wiki/C_(programming_language)).
+
+CHash was developed by the author as a means of familiarizing himself with the formatting conventions of the C language. As such, it is not the most optimized or bug-free implementation of a hash table in C to be found on the Internet; however, it is an original implementation, as the author intentionally developed it by hand without the aid of any other generic C language hashmap implementations.
