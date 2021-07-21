@@ -130,4 +130,3 @@ t_table * ch_create(unsigned long int table_size);
 void ch_destroy(t_table * p_table);
 
 #endif
-
